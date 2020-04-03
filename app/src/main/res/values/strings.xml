@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="inning">INNING</string>
+    <string name="team_A_name">Team A</string>
+    <string name="team_B_name">Team B</string>
+
+</resources>
